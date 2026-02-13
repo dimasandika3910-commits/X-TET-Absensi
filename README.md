@@ -1,4 +1,4 @@
-# X-TET-Absensi
+# Nimas Ratu
 <!DOCTYPE html>
 <html lang="id">
 <head>
